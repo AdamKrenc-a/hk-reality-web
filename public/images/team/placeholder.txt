@@ -1,0 +1,8 @@
+# Team Photos
+
+Place your team photos here:
+
+- michaela-hudska.jpg (recommended size: 400x400px, square format)
+- adam-krenc.jpg (recommended size: 400x400px, square format)
+
+The images will be displayed as circular profile photos in the team section.
